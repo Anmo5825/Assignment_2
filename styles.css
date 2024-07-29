@@ -1,0 +1,41 @@
+body{
+    background-color: cadetblue;
+
+    border: 4px solid black;
+    text-align: center
+}
+
+
+header {
+    size: 300px;
+    background-color: darkgray;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#Biography {
+
+
+    text-align: center
+
+}
+
+ul{
+    list-style-type: none;
+}
+#quote{
+    background-color: darkgray;
+}
+iframe{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+footer p {
+    font-size: 0.75rem;
+    color: #fff;
+}
